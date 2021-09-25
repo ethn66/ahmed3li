@@ -1,0 +1,81 @@
+<wpml-config>
+	  <admin-texts>
+        <key name="theme_mods_zeen-child">
+            <key name="copyright"/>
+            <key name="trending_text"/>
+            <key name="trending_mm_title"/>
+            <key name="header_block_featured_title"/>
+            <key name="logo_subtitle_main"/>
+            <key name="logo_main"/>
+            <key name="logo_main_retina"/>
+            <key name="logo_footer"/>
+            <key name="logo_footer_retina"/>
+            <key name="logo_main_menu"/>
+            <key name="logo_main_menu_retina"/>
+            <key name="logo_slide"/>
+            <key name="logo_slide_retina"/>
+            <key name="logo_mobile_menu"/>
+            <key name="logo_mobile_menu_retina"/>
+            <key name="logo_lwa"/>
+            <key name="logo_lwa_retina"/>
+            <key name="logo_amp"/>
+            <key name="logo_amp_retina"/>
+            <key name="logo_amp_footer"/>
+            <key name="logo_amp_footer_retina"/>
+            <key name="logo_p_menu"/>
+            <key name="logo_p_menu_retina"/>
+            <key name="classic_read_more_text"/>
+            <key name="grid_read_more_text"/>
+            <key name="slider_read_more_text"/>
+            <key name="subscribe_code"/>
+            <key name="subscribe_title"/>
+            <key name="sliding_global_title"/>
+            <key name="sliding_global_subtitle"/>
+            <key name="sliding_post_title"/>
+            <key name="sliding_global_smallprint"/>
+            <key name="sliding_global_code"/>
+            <key name="subscribe_subtitle"/>
+            <key name="top_bar_message_content"/>
+    </key>
+    </admin-texts>
+    <custom-fields>
+		   <custom-field action="copy">zeen_section_design</custom-field>
+		   <custom-field action="copy">zeen_hero_design</custom-field>
+		   <custom-field action="copy">zeen_cover_height</custom-field>
+		   <custom-field action="copy">zeen_parallax</custom-field>
+		   <custom-field action="copy">zeen_hero_color</custom-field>
+		   <custom-field action="copy">zeen_overlay</custom-field>
+		   <custom-field action="copy">zeen_overlay_text</custom-field>
+		   <custom-field action="copy">zeen_background_color</custom-field>
+		   <custom-field action="copy">zeen_secondary_image</custom-field>
+		   <custom-field action="copy">zeen_singular_header</custom-field>
+		   <custom-field action="copy">zeen_article_layout</custom-field>
+		   <custom-field action="copy">zeen_article_layout_skin</custom-field>
+		   <custom-field action="copy">zeen_share_details</custom-field>
+		   <custom-field action="copy">zeen_article_layout_gallery</custom-field>
+		   <custom-field action="translate">zeen_sidebar_pids</custom-field>
+		   <custom-field action="copy">zeen_section_extra</custom-field>
+		   <custom-field action="copy">zeen_spon</custom-field>
+		   <custom-field action="copy">zeen_spon_name</custom-field>
+		   <custom-field action="copy">zeen_spon_link</custom-field>
+		   <custom-field action="copy">zeen_spon_img</custom-field>
+		   <custom-field action="copy">zeen_spon_img_retina</custom-field>
+		   <custom-field action="copy">zeen_user_box</custom-field>
+		   <custom-field action="copy">zeen_related_posts</custom-field>
+		   <custom-field action="copy">zeen_next_previous</custom-field>
+		   <custom-field action="copy">zeen_section_layout</custom-field>
+		   <custom-field action="copy">zeen_tipi_slug_media_options</custom-field>
+		   <custom-field action="copy">zeen_source</custom-field>
+		   <custom-field action="copy">zeen_media_design</custom-field>
+		   <custom-field action="copy">zeen_video_code</custom-field>
+		   <custom-field action="copy">zeen_video_file_1</custom-field>
+		   <custom-field action="copy">zeen_video_file_2</custom-field>
+		   <custom-field action="copy">zeen_audio_code</custom-field>
+		   <custom-field action="copy">zeen_audio_file_1</custom-field>
+		   <custom-field action="copy">zeen_audio_file_2</custom-field>
+		   <custom-field action="copy">zeen_gallery_design</custom-field>
+		   <custom-field action="copy">zeen_gallery</custom-field>
+		   <custom-field action="copy">zeen_duration</custom-field>
+		   <custom-field action="copy">zeen_tipi_slug_page_options</custom-field>
+    </custom-fields>
+</wpml-config>

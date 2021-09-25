@@ -1,0 +1,51 @@
+.js-merlin-demo-import-select {
+	position: relative;
+	top:  -14px;
+	margin-top: 40px;
+}
+
+.merlin__drawer--open .merlin__drawer li:nth-of-type(4) {
+	display: none;
+}
+
+.merlin__content--ready #merlin__drawer-trigger {
+	display: none;
+}
+
+.merlin__content--ready .merlin__drawer--extras {
+	opacity: 1;
+	overflow: visible;
+	max-height: none;
+	margin-top: 20px;
+	pointer-events: all;
+}
+
+.merlin__content--ready .merlin__drawer--extras li {
+	opacity: 1;
+}
+
+.merlin__body #query-monitor, .merlin__body #query-monitor-main {
+	display: none;
+}
+
+.merlin__body .xdebug-error {
+	display: none;
+}
+
+.merlin__body .icon--welcome use {
+	width: 250px;
+}
+
+#server-health-info { background: #f8f9fd; padding: 20px; border-radius: 3px; margin-top: 15px;}
+#server-health-info h3 { display: inline-block; margin: 0 0 10px; font-weight: 300;}
+#health-meter { display: inline-block; position: relative; top: -1px; height: 8px; width: 8px; margin: 0 0 0 8px; border-radius: 8px;}
+#health-meter.does-not-meet-requirements { background-color: #bc0000;}
+#health-meter.meets-requirements { background-color: #7faf1b;}
+.below-req { color: #bc0000;}
+.meets-req { color: #7faf1b;}
+#server-health-info strong {}
+.server-info { margin-bottom: 0;}
+.server-info li, .recommended-req { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
+.server-value { margin-left: auto;}
+.recommended-req { width: 100%; text-align: right; font-size: 10px; opacity: 0.6; line-height: 1; margin-top: 3px;}
+.import__req__msg { font-size: 12px;}

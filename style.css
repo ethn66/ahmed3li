@@ -1,0 +1,17 @@
+/*!
+Theme Name: Zeen
+Theme URI: https://themeforest.net/item/zeen-next-generation-magazine-wordpress-theme/22709856
+Description: A next generation WordPress theme with everything you need to take your site to the next level.
+Version: 4.0.9.6
+Author: Codetipi
+Author URI: https://www.codetipi.com
+License: https://themeforest.net/licenses/standard
+License URI: https://themeforest.net/licenses/standard
+Requires at least: 5.0
+Requires PHP: 5.4
+Tested up to: 5.7.0
+Tags: responsive, modern, next-generation
+Text Domain: zeen
+*/
+
+/* The theme stylesheet is located in "assets/css/style.css". If you want to add/edit css, the recommended method is to edit the style.css inside your child theme or to add your css into Appearance -> Customizer -> Custom CSS */

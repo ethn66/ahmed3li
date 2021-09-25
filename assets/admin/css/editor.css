@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'tipi';
+    src:
+        url('../../css/tipi/tipi.woff2?9oa0lg') format('woff2'),
+        url('../../css/tipi/tipi.ttf?9oa0lg') format('truetype'),
+        url('../../css/tipi/tipi.woff?9oa0lg') format('woff'),
+        url('../../css/tipi/tipi.svg?9oa0lg#tipi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+.wp-block {
+    max-width: 770px;
+	-webkit-font-smoothing: antialiased;
+}
+
+.block-editor blockquote p:first-child {
+    position: relative;
+}
+
+.block-editor blockquote p:first-child:before {
+    content: '\e244';
+    font-family: 'tipi';
+    font-style: normal;
+    position: absolute;
+    left: -10%;
+    transform: scale(-1, 1);
+}
+
+.block-editor blockquote {
+    padding-left: 0;
+    border: 0;
+}
+
+.block-editor blockquote * {
+	font-family: inherit!important;
+}
+.block-editor blockquote>* {
+	font-size: 1.66666666em;
+    margin: 1em 0 45px 0;
+    width: 79%;
+    margin-left: 10%;
+    line-height: 1.5;
+}

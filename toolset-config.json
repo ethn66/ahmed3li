@@ -1,0 +1,480 @@
+{
+	"data": [
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "hero_design",
+			"type": [
+				"customizer"
+			],
+			"group": "Post Layout",
+			"target": [
+				"single"
+			],
+			"gui": {
+				"display_name": "Hero Design",
+				"type": "select",
+				"values": [
+					{
+						"text": "Small Hero 1",
+						"value": "1"
+					},
+					{
+						"text": "Small Hero 2",
+						"value": "2"
+					},
+					{
+						"text": "Small Hero 3",
+						"value": "3"
+					},
+					{
+						"text": "Small Hero 4",
+						"value": "4"
+					},
+					{
+						"text": "Small Hero 5",
+						"value": "5"
+					},
+					{
+						"text": "No Image Nor Title",
+						"value": "8"
+					},
+					{
+						"text": "Only Small Title",
+						"value": "9"
+					},
+					{
+						"text": "Only Big Title",
+						"value": "10"
+					},
+					{
+						"text": "Medium Hero 1",
+						"value": "11"
+					},
+					{
+						"text": "Medium Hero 2",
+						"value": "12"
+					},
+					{
+						"text": "Medium Hero 3",
+						"value": "13"
+					},
+					{
+						"text": "Medium Hero 4",
+						"value": "14"
+					},
+					{
+						"text": "Medium Hero 5",
+						"value": "15"
+					},
+					{
+						"text": "Medium Hero 6",
+						"value": "16"
+					},
+					{
+						"text": "Medium Hero 7",
+						"value": "17"
+					},
+					{
+						"text": "Medium Hero 8",
+						"value": "18"
+					},
+					{
+						"text": "Medium Hero 9",
+						"value": "19"
+					},
+					{
+						"text": "Large Hero 1",
+						"value": "21"
+					},
+					{
+						"text": "Large Hero 2",
+						"value": "22"
+					},
+					{
+						"text": "Large Hero 3",
+						"value": "23"
+					},
+					{
+						"text": "Large Hero 4",
+						"value": "24"
+					},
+					{
+						"text": "Large Hero 5",
+						"value": "25"
+					},
+					{
+						"text": "Large Hero 6",
+						"value": "26"
+					},
+					{
+						"text": "Large Hero 7",
+						"value": "27"
+					},
+					{
+						"text": "Large Hero 8",
+						"value": "28"
+					},
+					{
+						"text": "Large Hero 9",
+						"value": "29"
+					}
+				]
+			},
+			"default_value": "toolset_use_theme_setting"
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "article_layout",
+			"type": [
+				"customizer"
+			],
+			"group": "Post Layout",
+			"target": [
+				"single"
+			],
+			"gui": {
+				"display_name": "Layout Design",
+				"type": "select",
+				"values": [
+					{
+						"text": "Right Sidebar",
+						"value": "1"
+					},
+					{
+						"text": "Left Sidebar",
+						"value": "3"
+					},
+					{
+						"text": "No Sidebar Narrow",
+						"value": "31"
+					},
+					{
+						"text": "No Sidebar Narrow 2",
+						"value": "36"
+					},
+					{
+						"text": "No Sidebar Wide 1",
+						"value": "51"
+					},
+					{
+						"text": "No Sidebar Wide 2",
+						"value": "55"
+					}
+				]
+			},
+			"default_value": "toolset_use_theme_setting"
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "single_related_posts",
+			"type": [
+				"customizer"
+			],
+			"group": "Post Layout",
+			"target": [
+				"single"
+			],
+			"gui": {
+				"display_name": "Related Posts Block",
+				"type": "select",
+				"values": [
+					{
+						"text": "On",
+						"value": "1"
+					},
+					{
+						"text": "Off",
+						"value": ""
+					}
+				]
+			},
+			"default_value": "toolset_use_theme_setting"
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "single_author_box",
+			"type": [
+				"customizer"
+			],
+			"group": "Post Layout",
+			"target": [
+				"single"
+			],
+			"gui": {
+				"display_name": "About The Author Block",
+				"type": "select",
+				"values": [
+					{
+						"text": "On",
+						"value": "1"
+					},
+					{
+						"text": "Off",
+						"value": ""
+					}
+				]
+			},
+			"default_value": "toolset_use_theme_setting"
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "single_next_previous",
+			"type": [
+				"customizer"
+			],
+			"group": "Post Layout",
+			"target": [
+				"single"
+			],
+			"gui": {
+				"display_name": "Next And Previous Posts Block",
+				"type": "select",
+				"values": [
+					{
+						"text": "On",
+						"value": "1"
+					},
+					{
+						"text": "Off",
+						"value": ""
+					}
+				]
+			},
+			"default_value": "toolset_use_theme_setting"
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "tax_sidebar",
+			"type": [
+				"customizer"
+			],
+			"group": "Theme Layout",
+			"target": [
+				"archive"
+			],
+			"gui": {
+				"display_name": "Sidebar Position",
+				"type": "select",
+				"values": [
+					{
+						"text": "Right Side",
+						"value": "1"
+					},
+					{
+						"text": "Left Side",
+						"value": "2"
+					}
+				]
+			},
+			"default_value": "toolset_use_theme_setting"
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "tax_pagination",
+			"type": [
+				"customizer"
+			],
+			"group": "Theme Layout",
+			"target": [
+				"archive"
+			],
+			"gui": {
+				"display_name": "Pagination Type",
+				"type": "select",
+				"values": [
+					{
+						"text": "Numbered Pagination",
+						"value": "1"
+					},
+					{
+						"text": "Load More Button",
+						"value": "2"
+					},
+					{
+						"text": "Infinite Scroll",
+						"value": "3"
+					},
+					{
+						"text": "Load Button Once Then Infinite Scroll",
+						"value": "4"
+					}
+				]
+			},
+			"default_value": "toolset_use_theme_setting"
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "tax_pub",
+			"type": [
+				"customizer"
+			],
+			"group": "Theme Layout",
+			"target": [
+				"archive"
+			],
+			"gui": {
+				"display_name": "Ad Above Posts",
+				"type": "text"
+			},
+			"default_value": ""
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "tax_below_pub",
+			"type": [
+				"customizer"
+			],
+			"group": "Theme Layout",
+			"target": [
+				"archive"
+			],
+			"gui": {
+				"display_name": "Ad Below Posts",
+				"type": "text"
+			},
+			"default_value": ""
+		},
+		{
+			"global_key": "theme_mods_zeen",
+			"name": "tax_layout",
+			"type": [
+				"customizer"
+			],
+			"group": "Theme Layout",
+			"target": [
+				"archive"
+			],
+			"gui": {
+				"display_name": "Layout",
+				"type": "select",
+				"values": [
+					{
+						"text": "Classic A",
+						"value": "1"
+					},
+					{
+						"text": "Classic Big",
+						"value": "2"
+					},
+					{
+						"text": "Classic No Image",
+						"value": "5"
+					},
+					{
+						"text": "Classic 2",
+						"value": "21"
+					},
+					{
+						"text": "Thumbnails A",
+						"value": "22"
+					},
+					{
+						"text": "Masonry A",
+						"value": "24"
+					},
+					{
+						"text": "Classic 3",
+						"value": "26"
+					},
+					{
+						"text": "Classic 3 Square",
+						"value": "27"
+					},
+					{
+						"text": "Classic 4",
+						"value": "28"
+					},
+					{
+						"text": "Classic 4 Square",
+						"value": "29"
+					},
+					{
+						"text": "Mix Classic A + Big",
+						"value": "41"
+					},
+					{
+						"text": "Mix Classic B + Big",
+						"value": "42"
+					},
+					{
+						"text": "Mix Classic B + Grid",
+						"value": "42"
+					},
+					{
+						"text": "Classic 3 (No Sidebar)",
+						"value": "61"
+					},
+					{
+						"text": "Portrait 3 (No Sidebar)",
+						"value": "62"
+					},
+					{
+						"text": "Masonry 2 (No Sidebar)",
+						"value": "63"
+					},
+					{
+						"text": "Masonry 3 (No Sidebar)",
+						"value": "64"
+					},
+					{
+						"text": "Parallax Masonry (No Sidebar)",
+						"value": "65"
+					},
+					{
+						"text": "Long Rectangles (No Sidebar)",
+						"value": "68"
+					},
+					{
+						"text": "Classic 4 (No Sidebar)",
+						"value": "71"
+					},
+					{
+						"text": "Classic 4 Square (No Sidebar)",
+						"value": "72"
+					},
+					{
+						"text": "Classic 5 (No Sidebar)",
+						"value": "79"
+					},
+					{
+						"text": "Grid 1",
+						"value": "81"
+					},
+					{
+						"text": "Grid 2",
+						"value": "82"
+					},
+					{
+						"text": "Grid 3",
+						"value": "83"
+					},
+					{
+						"text": "Grid 4",
+						"value": "84"
+					},
+					{
+						"text": "Mix Grid 1",
+						"value": "91"
+					},
+					{
+						"text": "Mix Grid 2",
+						"value": "92"
+					},
+					{
+						"text": "Mix Grid 3",
+						"value": "93"
+					},
+					{
+						"text": "Mix Grid 4",
+						"value": "94"
+					},
+					{
+						"text": "Mix Grid 5",
+						"value": "97"
+					}
+				]
+			},
+			"default_value": "toolset_use_theme_setting"
+		}
+	]
+}
